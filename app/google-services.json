@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326312214207",
+    "firebase_url": "https://assigment-fdb4d.firebaseio.com",
+    "project_id": "assigment-fdb4d",
+    "storage_bucket": "assigment-fdb4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326312214207:android:ea74a34687b16bfd3f900a",
+        "android_client_info": {
+          "package_name": "com.example.assigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326312214207-numef23mdvc8cfpe5lomqmnle8s016ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assigment",
+            "certificate_hash": "a4f391f49d25e1471ee0d7251897dd5c224f4b01"
+          }
+        },
+        {
+          "client_id": "326312214207-8vapnjq3dk5joam1shduet8srhd77qrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKp0TirFJArnbWuU-Ub39MC_uErXRAjjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326312214207-8vapnjq3dk5joam1shduet8srhd77qrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
